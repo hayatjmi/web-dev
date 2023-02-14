@@ -1,0 +1,77 @@
+/* Styling the body element
+		like body color and margin */
+body
+{
+    
+    background-color: black;
+    color: white
+    ;
+}
+main
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vw;
+    height: auto;
+}
+/* Styling the Title and giving
+		shadow to the title */
+        #title {
+			text-align: center;
+            color: yellowgreen;
+			text-shadow: 5px 5px 10px yellow;
+			font-size: 10vh;
+		}
+        /* Setting width and display
+		type of image */
+		img {
+			display: inline-block;
+			width: 100%;
+            height: auto;
+            /* align-content: center; */
+		}
+        /* Setting font color and font
+		size of the image-caption */
+		#quotation {
+            text-align: center;
+			font-size: 3vh;
+			font-family: Gill Sans;
+			color: rgb(242, 186, 96);
+            
+        }
+        /* Styling the content of the page like-
+		padding, font-size, font color etc.*/
+		div#tribute {
+			background-color: rgba(54, 138, 90, 0.25);
+			/* box-shadow: 20px 20px 20px 20px  #98FB98; */
+            color: yellowgreen;
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+		}
+        /* Styling the title of the content */
+		h1.apj-title {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			text-shadow: 5px 5px 10px black;
+     
+        }
+        /* Styling the link provided at the end */
+		#tribute-link {
+			text-decoration: none;
+			color: black;
+            height: 10vh;
+		}
+        #footer
+        {
+            height: 6vh;
+            background-color: #98FB98;
+            color: black;
+            margin-top: auto;
+            text-align: center;
+            
+        }
+        
+
